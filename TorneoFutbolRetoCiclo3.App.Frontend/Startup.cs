@@ -25,7 +25,7 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            //services.AddSingleton<IRepositorioArbitro, RepositorioArbitro>();
+            services.AddSingleton<IRepositorioArbitro, RepositorioArbitro>();
             //services.AddSingleton<IRepositorioEquipo, RepositorioEquipo>();
             //services.AddSingleton<IRepositorioDesempeno_equipo, RepositorioDesempeno_equipo>();
             //services.AddSingleton<IRepositorioMunicipio, RepositorioMunicipio>();

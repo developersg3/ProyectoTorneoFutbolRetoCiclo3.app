@@ -7,7 +7,7 @@ namespace TorneoFutbolRetoCiclo3.App.Consola
 {
     class Program
     {
-        //private static IRepositorioArbitro _repoArbitro = new RepositorioArbitro();
+        private static IRepositorioArbitro _repoArbitro = new RepositorioArbitro();
         //private static IRepositorioEquipo _repoEquipo = new RepositorioEquipo();
         //private static IRepositorioDesempeno_equipo _repoDesempeno_equipo = new RepositorioDesempeno_equipo();
         //private static IRepositorioMunicipio _repoMunicipio = new RepositorioMunicipio();
