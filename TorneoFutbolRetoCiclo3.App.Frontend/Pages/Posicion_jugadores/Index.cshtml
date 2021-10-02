@@ -1,0 +1,28 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Posicion_jugadores.IndexModel
+@{
+}
+<h1>Listado de Posicion de jugadores</h1>
+<a class="btn btn-primary" asp-page="./Create" >Nueva Posicion de jugador</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Nombre</th>
+			<th scope="col">Id</th>
+			<th scope="col">Acciones</th>
+		</tr>
+	</thead>
+	</tbody>
+	@foreach (var posicion_jugador in Model.posicion_jugadores)
+	{
+		<tr>
+			<td>@posicion_jugador.nombre_posicion_jugador</td>
+			<td>@posicion_jugador.Posicion_jugadorId</td>
+			<td>
+				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@posicion_jugador.Posicion_jugadorId">Detalle</a>
+				<a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@posicion_jugador.Posicion_jugadorId">Editar</a>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

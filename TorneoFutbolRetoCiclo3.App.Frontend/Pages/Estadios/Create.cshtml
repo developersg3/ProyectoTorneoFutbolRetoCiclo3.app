@@ -1,0 +1,23 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios.CreateModel
+@{
+}
+<h1>Nuevo Estadio</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="estadio.nombre_estadio"></label>
+        <input asp-for="estadio.nombre_estadio" class="form-control">
+        <span asp-validation-for="estadio.nombre_estadio" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="estadio.direccion_estadio"></label>
+        <input asp-for="estadio.direccion_estadio" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="estadio.MunicipioId"></label>
+        <input asp-for="estadio.MunicipioId" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Estadio</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

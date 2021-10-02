@@ -1,0 +1,43 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Desempeno_equipos.EditModel
+@{
+}
+<h1>Editar Desenpeño Equipo</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.Desempeno_equipoId"></label>
+        <input asp-for="desempeno_equipo.Desempeno_equipoId" class="form-control" readonly>
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.cantidad_partidos_jugados"></label>
+        <input asp-for="desempeno_equipo.cantidad_partidos_jugados" class="form-control">
+        <span asp-validation-for="desempeno_equipo.cantidad_partidos_jugados" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.cantidad_partidos_ganados"></label>
+        <input asp-for="desempeno_equipo.cantidad_partidos_ganados" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.cantidad_partidos_empatados"></label>
+        <input asp-for="desempeno_equipo.cantidad_partidos_empatados" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.cantidad_goles_a_favor"></label>
+        <input asp-for="desempeno_equipo.cantidad_goles_a_favor" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.cantidad_goles_en_contra"></label>
+        <input asp-for="desempeno_equipo.cantidad_goles_en_contra" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.cantidad_puntos"></label>
+        <input asp-for="desempeno_equipo.cantidad_puntos" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="desempeno_equipo.EquipoId"></label>
+        <input asp-for="desempeno_equipo.EquipoId" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Editar Desempeno Equipo</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

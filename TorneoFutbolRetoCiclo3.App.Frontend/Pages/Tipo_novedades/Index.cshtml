@@ -1,0 +1,28 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tipo_novedades.IndexModel
+@{
+}
+<h1>Listado de Tipo de novedades</h1>
+<a class="btn btn-primary" asp-page="./Create" >Nuevo Tipo de novedad</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Nombre</th>
+			<th scope="col">Id</th>
+			<th scope="col">Acciones</th>
+		</tr>
+	</thead>
+	</tbody>
+	@foreach (var tipo_novedad in Model.tipo_novedades)
+	{
+		<tr>
+			<td>@tipo_novedad.nombre_tipo_novedad</td>
+			<td>@tipo_novedad.Tipo_novedadId</td>
+			<td>
+				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@tipo_novedad.Tipo_novedadId">Detalle</a>
+				<a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@tipo_novedad.Tipo_novedadId">Editar</a>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

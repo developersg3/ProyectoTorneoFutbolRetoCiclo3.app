@@ -1,0 +1,27 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros.CreateModel
+@{
+}
+<h1>Nuevo Arbitro</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="arbitro.nombre_arbitro"></label>
+        <input asp-for="arbitro.nombre_arbitro" class="form-control">
+        <span asp-validation-for="arbitro.nombre_arbitro" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="arbitro.documento_arbitro"></label>
+        <input asp-for="arbitro.documento_arbitro" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="arbitro.telefono_arbitro"></label>
+        <input asp-for="arbitro.telefono_arbitro" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="arbitro.nombre_colegio"></label>
+        <input asp-for="arbitro.nombre_colegio" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Arbitro</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

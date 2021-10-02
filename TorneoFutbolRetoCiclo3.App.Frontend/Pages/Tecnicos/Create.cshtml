@@ -1,0 +1,19 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tecnicos.CreateModel
+@{
+}
+<h1>Nuevo Tecnico</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="tecnico.nombre_tecnico"></label>
+        <input asp-for="tecnico.nombre_tecnico" class="form-control">
+        <span asp-validation-for="tecnico.nombre_tecnico" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="tecnico.EquipoId"></label>
+        <input asp-for="tecnico.EquipoId" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Tecnico</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

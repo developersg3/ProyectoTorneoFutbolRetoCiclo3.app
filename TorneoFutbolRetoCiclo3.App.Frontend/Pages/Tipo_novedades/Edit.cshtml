@@ -1,0 +1,19 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tipo_novedades.EditModel
+@{
+}
+<h1>Editar Tipo de novedad</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="tipo_novedad.Tipo_novedadId"></label>
+        <input asp-for="tipo_novedad.Tipo_novedadId" class="form-control" readonly>
+    </div>
+    <div class="form-group">
+        <label asp-for="tipo_novedad.nombre_tipo_novedad"></label>
+        <input asp-for="tipo_novedad.nombre_tipo_novedad" class="form-control">
+        <span asp-validation-for="tipo_novedad.nombre_tipo_novedad" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Editar Tipo de novedad</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

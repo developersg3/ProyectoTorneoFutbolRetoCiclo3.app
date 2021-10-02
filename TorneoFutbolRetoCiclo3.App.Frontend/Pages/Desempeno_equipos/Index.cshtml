@@ -1,0 +1,38 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Desempeno_equipos.IndexModel
+@{
+}
+<h1>Listado de Desenpeños</h1>
+<a class="btn btn-primary" asp-page="./Create" >Nuevo Desenpeño</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Partidos jugados</th>
+			<th scope="col">Partidos ganados</th>
+			<th scope="col">Partidos empatados</th>
+			<th scope="col">Goles a favor</th>
+			<th scope="col">Goles en contra</th>
+			<th scope="col">Puntos</th>
+			<th scope="col">Equipo</th>
+			<th scope="col">Acciones</th>
+		</tr>
+	</thead>
+	</tbody>
+	@foreach (var desempeno_equipo in Model.desempeno_equipos)
+	{
+		<tr>
+			<td>@desempeno_equipo.cantidad_partidos_jugados</td>
+			<td>@desempeno_equipo.cantidad_partidos_ganados</td>
+			<td>@desempeno_equipo.cantidad_partidos_empatados</td>
+			<td>@desempeno_equipo.cantidad_goles_a_favor</td>
+            <td>@desempeno_equipo.cantidad_goles_en_contra</td>
+            <td>@desempeno_equipo.cantidad_puntos</td>
+			<td>@desempeno_equipo.EquipoId</td>
+			<td>
+				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@desempeno_equipo.Desempeno_equipoId">Detalle</a>
+				<a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@desempeno_equipo.Desempeno_equipoId">Editar</a>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

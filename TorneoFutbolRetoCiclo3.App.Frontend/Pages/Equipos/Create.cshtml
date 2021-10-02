@@ -1,0 +1,15 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Equipos.CreateModel
+@{
+}
+<h1>Nuevo Equipo</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="equipo.nombre_equipo"></label>
+        <input asp-for="equipo.nombre_equipo" class="form-control">
+        <span asp-validation-for="equipo.nombre_equipo" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Equipo</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

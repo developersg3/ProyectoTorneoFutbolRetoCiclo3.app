@@ -1,0 +1,34 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros.IndexModel
+@{
+}
+<h1>Listado de Arbitros</h1>
+<a class="btn btn-primary" asp-page="./Create" >Nuevo Arbitro</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Nombre</th>
+			<th scope="col">Documento</th>
+			<th scope="col">Telefono</th>
+			<th scope="col">Colegio</th>
+			<th scope="col">Id</th>
+			<th scope="col">Acciones</th>
+		</tr>
+	</thead>
+	</tbody>
+	@foreach (var arbitro in Model.arbitros)
+	{
+		<tr>
+			<td>@arbitro.nombre_arbitro</td>
+			<td>@arbitro.documento_arbitro</td>
+			<td>@arbitro.telefono_arbitro</td>
+			<td>@arbitro.nombre_colegio</td>
+			<td>@arbitro.ArbitroId</td>
+			<td>
+				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@arbitro.ArbitroId">Detalle</a>
+				<a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@arbitro.ArbitroId">Editar</a>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

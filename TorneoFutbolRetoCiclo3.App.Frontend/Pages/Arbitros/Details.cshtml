@@ -1,0 +1,24 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros.DetailsModel
+@{
+}
+<h1>Detalles del Arbitro</h1>
+<table class="table table-dark">
+    <tr>
+        <th scope="col" asp-for="arbitro.nombre_arbitro">Nombre</th>
+        <td>@Model.arbitro.nombre_arbitro</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="arbitro.documento_arbitro">Apellidos</th>
+        <td>@Model.arbitro.documento_arbitro</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="arbitro.telefono_arbitro">Telefono</th>
+        <td>@Model.arbitro.telefono_arbitro</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="arbitro.nombre_colegio">Direccion</th>
+        <td>@Model.arbitro.nombre_colegio</td>
+    </tr>
+</table>
+<a class="btn btn-primary" asp-page="./Index">Volver</a>

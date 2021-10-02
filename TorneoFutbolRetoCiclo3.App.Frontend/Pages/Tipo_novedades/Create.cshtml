@@ -1,0 +1,15 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tipo_novedades.CreateModel
+@{
+}
+<h1>Nuevo Tipo de novedad</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="tipo_novedad.nombre_tipo_novedad"></label>
+        <input asp-for="tipo_novedad.nombre_tipo_novedad" class="form-control">
+        <span asp-validation-for="tipo_novedad.nombre_tipo_novedad" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Tipo de novedad</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

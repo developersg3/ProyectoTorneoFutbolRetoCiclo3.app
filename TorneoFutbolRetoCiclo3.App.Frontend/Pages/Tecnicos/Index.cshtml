@@ -1,0 +1,30 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tecnicos.IndexModel
+@{
+}
+<h1>Listado de Tecnicos</h1>
+<a class="btn btn-primary" asp-page="./Create" >Nuevo Tecnico</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Nombre</th>
+			<th scope="col">Equipo</th>
+			<th scope="col">Id</th>
+			<th scope="col">Acciones</th>
+		</tr>
+	</thead>
+	</tbody>
+	@foreach (var tecnico in Model.tecnicos)
+	{
+		<tr>
+			<td>@tecnico.nombre_tecnico</td>
+			<td>@tecnico.EquipoId</td>
+			<td>@tecnico.TecnicoId</td>
+			<td>
+				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@tecnico.TecnicoId">Detalle</a>
+				<a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@tecnico.TecnicoId">Editar</a>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

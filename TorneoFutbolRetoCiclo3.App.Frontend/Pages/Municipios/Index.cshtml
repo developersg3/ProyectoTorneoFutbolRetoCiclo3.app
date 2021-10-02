@@ -1,0 +1,28 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Municipios.IndexModel
+@{
+}
+<h1>Listado de Municipios</h1>
+<a class="btn btn-primary" asp-page="./Create" >Nuevo Municipio</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Nombre</th>
+			<th scope="col">Id</th>
+			<th scope="col">Acciones</th>
+		</tr>
+	</thead>
+	</tbody>
+	@foreach (var municipio in Model.municipios)
+	{
+		<tr>
+			<td>@municipio.nombre_municipio</td>
+			<td>@municipio.MunicipioId</td>
+			<td>
+				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@municipio.MunicipioId">Detalle</a>
+				<a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@municipio.MunicipioId">Editar</a>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

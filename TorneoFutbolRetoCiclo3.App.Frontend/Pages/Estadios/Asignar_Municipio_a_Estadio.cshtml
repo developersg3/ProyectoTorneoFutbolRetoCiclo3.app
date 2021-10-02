@@ -1,0 +1,22 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios.Asignar_Municipio_a_EstadioModel
+@{
+}
+<h1>Asignar municipio</h1>
+<form method="post">
+    <div class="form-group">
+        <label for="EstadioId">Estadio</label>
+        <input type="text" id="EstadioId" name="EstadioId" class="form-control" value="@Model.estadio.EstadioId" readonly>
+    </div>
+    <div class="form-group">
+        <label for="MunicipioId">Municipio</label>
+        <select id="MunicipioId" name="MunicipioId" class="form-control">
+            @foreach (var municipio in Model.municipios)
+            {
+                <option value="@municipio.MunicipioId">@municipio.nombre_municipio</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Asignar municipio</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

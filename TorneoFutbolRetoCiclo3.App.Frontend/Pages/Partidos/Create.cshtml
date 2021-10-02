@@ -1,0 +1,43 @@
+﻿@page
+@using TorneoFutbolRetoCiclo3.App.Dominio
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Partidos.CreateModel
+@{
+}
+<h1>Nuevo Partido</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="partido.cod_equipo_local"></label>
+        <input asp-for="partido.cod_equipo_local" class="form-control">
+        <span asp-validation-for="partido.cod_equipo_local" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.cod_equipo_vistante"></label>
+        <input asp-for="partido.cod_equipo_vistante" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.goles_equipo_local"></label>
+        <input asp-for="partido.goles_equipo_local" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.goles_equipo_visitante"></label>
+        <input asp-for="partido.goles_equipo_visitante" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.fecha_partido"></label>
+        <input asp-for="partido.fecha_partido" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.hora_partido"></label>
+        <input asp-for="partido.hora_partido" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.ArbitroId"></label>
+        <input asp-for="partido.ArbitroId" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="partido.EstadioId"></label>
+        <input asp-for="partido.EstadioId" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Partido</button>
+</form>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

@@ -1,0 +1,36 @@
+﻿@page
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Desempeno_equipos.DetailsModel
+@{
+}
+<h1>Detalles del Desempeño</h1>
+<table class="table table-dark">
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.cantidad_partidos_jugados">Cantidad de partidos jugados</th>
+        <td>@Model.desempeno_equipo.cantidad_partidos_jugados</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.cantidad_partidos_ganados">Cantidad de partidos ganados</th>
+        <td>@Model.desempeno_equipo.cantidad_partidos_ganados</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.cantidad_partidos_empatados">Cantidad de partidos empatados</th>
+        <td>@Model.desempeno_equipo.cantidad_partidos_empatados</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.cantidad_goles_a_favor">Cantidad goles a favor</th>
+        <td>@Model.desempeno_equipo.cantidad_goles_a_favor</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.cantidad_goles_en_contra">Cantidad goles en contra</th>
+        <td>@Model.desempeno_equipo.cantidad_goles_en_contra</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.cantidad_puntos">Cantidad puntos</th>
+        <td>@Model.desempeno_equipo.cantidad_puntos</td>
+    </tr>
+    <tr>
+        <th scope="col" asp-for="desempeno_equipo.EquipoId">Nombre del equipo</th>
+        <td>@Model.desempeno_equipo.EquipoId</td>
+    </tr>
+</table>
+<a class="btn btn-primary" asp-page="./Index">Volver</a>
