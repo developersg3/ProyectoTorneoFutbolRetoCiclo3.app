@@ -3,7 +3,15 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Jugadores.CreateModel
 @{
 }
-<h1>Nuevo Jugador</h1>
+<style>
+    h1.intro
+    {
+        color: orangered;
+        text-align: center;
+        font-size: 300%;
+    }
+</style>
+<h1 class = "intro">Jugador</h1>
 <form method="post">
     <div class="form-group">
         <label asp-for="jugador.nombre_jugador"></label>
