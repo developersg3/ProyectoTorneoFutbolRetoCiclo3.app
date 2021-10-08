@@ -32,7 +32,7 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend
             //services.AddSingleton<IRepositorioTipo_novedad, RepositorioTipo_novedad>();
             //services.AddSingleton<IRepositorioEstadio, RepositorioEstadio>();
             //services.AddSingleton<IRepositorioPosicion_jugador, RepositorioPosicion_jugador>();
-            //services.AddSingleton<IRepositorioTecnico, RepositorioTecnico>();
+            services.AddSingleton<IRepositorioTecnico, RepositorioTecnico>();
             //services.AddSingleton<IRepositorioJugador, RepositorioJugador>();
             //services.AddSingleton<IRepositorioPartido, RepositorioPartido>();
             //services.AddSingleton<IRepositorioNovedad, RepositorioNovedad>();
