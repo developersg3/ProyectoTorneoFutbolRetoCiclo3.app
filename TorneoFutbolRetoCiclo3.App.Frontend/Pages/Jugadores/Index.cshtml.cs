@@ -12,16 +12,23 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Jugadores
     public class IndexModel : PageModel
     {
         private readonly IRepositorioJugador _repoJugador;
+        private readonly IRepositorioEquipo _repoEquipo;
         public IEnumerable<Jugador> jugadores {get; set;}
+        public Equipo equipo {get;set;}
 
-        public IndexModel(IRepositorioJugador repoJugador)
+        public IndexModel(IRepositorioJugador repoJugador, IRepositorioEquipo repoEquipo)
         {
             _repoJugador = repoJugador;
+            _repoEquipo = repoEquipo;
         }
 
         public void OnGet()
         {
             jugadores = _repoJugador.GetAllJugadores();
+            foreach (var player in jugadores)
+            {
+             equipo = _repoEquipo.GetEquipo(player.EquipoId);   
+            }
         }
     }
 }

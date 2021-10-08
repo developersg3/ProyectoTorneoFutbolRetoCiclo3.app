@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SOLID\\.nuget\\packages\\": {}
+    "/home/jhonathan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
+      "projectUniqueName": "/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Dominio/TorneoFutbolRetoCiclo3.App.Dominio.csproj",
       "projectName": "TorneoFutbolRetoCiclo3.App.Dominio",
-      "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\SOLID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\obj\\",
+      "projectPath": "/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Dominio/TorneoFutbolRetoCiclo3.App.Dominio.csproj",
+      "packagesPath": "/home/jhonathan/.nuget/packages/",
+      "outputPath": "/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Dominio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SOLID\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/jhonathan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

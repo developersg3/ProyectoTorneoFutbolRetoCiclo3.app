@@ -1,68 +1,136 @@
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.exe
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.deps.json
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.runtimeconfig.json
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.runtimeconfig.dev.json
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Consola.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.csproj.AssemblyReference.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.AssemblyInfoInputs.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.AssemblyInfo.cs
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.csproj.CoreCompileInputs.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Consola.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.genruntimeconfig.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Humanizer.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.Drawing.Common.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.Security.Permissions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Consola\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Consola.csproj.CopyComplete
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.exe
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.deps.json
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.runtimeconfig.json
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.runtimeconfig.dev.json
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Consola.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.csproj.AssemblyReference.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.AssemblyInfoInputs.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.AssemblyInfo.cs
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.csproj.CoreCompileInputs.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Consola.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.genruntimeconfig.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Humanizer.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Drawing.Common.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Security.Permissions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Windows.Extensions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.csproj.CopyComplete
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.deps.json
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.runtimeconfig.json
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.runtimeconfig.dev.json
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Consola.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Humanizer.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Drawing.Common.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Security.Permissions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/System.Windows.Extensions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.csproj.AssemblyReference.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.AssemblyInfoInputs.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.AssemblyInfo.cs
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.csproj.CoreCompileInputs.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.csproj.CopyComplete
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Consola.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Consola/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Consola.genruntimeconfig.cache
