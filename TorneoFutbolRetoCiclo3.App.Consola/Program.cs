@@ -7,7 +7,7 @@ namespace TorneoFutbolRetoCiclo3.App.Consola
 {
     class Program
     {
-        //private static IRepositorioArbitro _repoArbitro = new RepositorioArbitro();
+        private static IRepositorioArbitro _repoArbitro = new RepositorioArbitro();
         //private static IRepositorioEquipo _repoEquipo = new RepositorioEquipo();
         //private static IRepositorioDesempeno_equipo _repoDesempeno_equipo = new RepositorioDesempeno_equipo();
         //private static IRepositorioMunicipio _repoMunicipio = new RepositorioMunicipio();
@@ -17,7 +17,7 @@ namespace TorneoFutbolRetoCiclo3.App.Consola
         //private static IRepositorioTecnico _repoTecnico = new RepositorioTecnico();
         //private static IRepositorioJugador _repoJugador = new RepositorioJugador();
         //private static IRepositorioPartido _repoPartido = new RepositorioPartido();
-        //private static IRepositorioNovedad _repoNovedad = new RepositorioNovedad();
+        private static IRepositorioNovedad _repoNovedad = new RepositorioNovedad();
 
         static void Main(string[] args)
         {
