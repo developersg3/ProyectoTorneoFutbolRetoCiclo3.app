@@ -20,7 +20,7 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
     {
       if (!optionsBuilder.IsConfigured)
       {
-        optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=TorneoFutbolPrueba");        
+        optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=TorneoFutbolPrueba");
       }
     }
   }
