@@ -32,8 +32,20 @@
 			<td>@jugador.nombre_jugador</td>
 			<td>@jugador.apellido_jugador</td>
 			<td>@jugador.numero_jugador</td>
-			<td>@Model.equipo.nombre_equipo</td>
-			<td>@Model.PosJugador.nombre_posicion_jugador</td>
+			@foreach(var team in Model.equipos)
+			{
+				if(jugador.EquipoId == team.EquipoId)
+				{
+					<td>@team.nombre_equipo</td>
+				}
+			}
+			@foreach(var pos in Model.PosJugadores)
+			{
+				if(jugador.Posicion_jugadorId == pos.Posicion_jugadorId)
+				{
+					<td>@pos.nombre_posicion_jugador</td>
+				}
+			}
 			<td>@jugador.JugadorId</td>
 			<td>
 				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@jugador.JugadorId">Detalle</a>
