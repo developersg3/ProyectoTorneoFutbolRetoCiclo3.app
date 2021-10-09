@@ -1,18 +1,36 @@
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.deps.json
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.json
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.dev.json
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Persistencia.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.csproj.AssemblyReference.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfo.cs
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CopyComplete
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Persistencia.dll
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
-C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.genruntimeconfig.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.deps.json
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.json
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.dev.json
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.csproj.AssemblyReference.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfo.cs
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CopyComplete
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+C:/Users/SOLID/Documents/TorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.genruntimeconfig.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.deps.json
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.json
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.dev.json
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/bin/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Dominio.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.csproj.AssemblyReference.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfo.cs
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CopyComplete
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/ref/TorneoFutbolRetoCiclo3.App.Persistencia.dll
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+/home/jhonathan/Documentos/MisiónTIC_2022/Desarrollo de Software/Proyecto/ProyectoTorneoFutbolRetoCiclo3.app/TorneoFutbolRetoCiclo3.App.Persistencia/obj/Debug/net5.0/TorneoFutbolRetoCiclo3.App.Persistencia.genruntimeconfig.cache

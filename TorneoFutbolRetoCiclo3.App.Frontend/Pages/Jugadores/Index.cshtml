@@ -1,8 +1,17 @@
 ﻿@page
-@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Jugadores.IndexModel
+@model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Jugadores.IndexModel 
 @{
 }
-<h1>Listado de Jugadores</h1>
+<style>
+    h1.intro
+    {
+        color: purple;
+        text-align: center;
+        font-size: 300%;
+    }
+</style>
+
+<h1 class="intro">Listado de Jugadores</h1>
 <a class="btn btn-primary" asp-page="./Create" >Nuevo Jugador</a>
 <table class="table">
 	<thead>
@@ -23,8 +32,8 @@
 			<td>@jugador.nombre_jugador</td>
 			<td>@jugador.apellido_jugador</td>
 			<td>@jugador.numero_jugador</td>
-			<td>@jugador.EquipoId</td>
-			<td>@jugador.Posicion_jugadorId</td>
+			<td>@Model.equipo.nombre_equipo</td>
+			<td>@Model.PosJugador.nombre_posicion_jugador</td>
 			<td>@jugador.JugadorId</td>
 			<td>
 				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@jugador.JugadorId">Detalle</a>

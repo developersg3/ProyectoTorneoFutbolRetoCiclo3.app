@@ -2,7 +2,7 @@
 
 namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
 {
-    public partial class Entidades : Migration
+    public partial class Inicial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -148,9 +148,9 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     nombre_jugador = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     apellido_jugador = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    numero_jugador = table.Column<int>(type: "int", nullable: false),
-                    EquipoId = table.Column<int>(type: "int", nullable: false),
-                    Posicion_jugadorId = table.Column<int>(type: "int", nullable: false)
+                    numero_jugador = table.Column<int>(type: "int", maxLength: 3, nullable: false),
+                    EquipoId = table.Column<int>(type: "int", maxLength: 50, nullable: false),
+                    Posicion_jugadorId = table.Column<int>(type: "int", maxLength: 50, nullable: false)
                 },
                 constraints: table =>
                 {

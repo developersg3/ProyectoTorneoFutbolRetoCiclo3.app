@@ -136,9 +136,11 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
                         .UseIdentityColumn();
 
                     b.Property<int>("EquipoId")
+                        .HasMaxLength(50)
                         .HasColumnType("int");
 
                     b.Property<int>("Posicion_jugadorId")
+                        .HasMaxLength(50)
                         .HasColumnType("int");
 
                     b.Property<string>("apellido_jugador")
@@ -152,6 +154,7 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("numero_jugador")
+                        .HasMaxLength(3)
                         .HasColumnType("int");
 
                     b.HasKey("JugadorId");
