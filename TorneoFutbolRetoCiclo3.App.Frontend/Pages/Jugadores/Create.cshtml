@@ -21,18 +21,22 @@
     <div class="form-group">
         <label asp-for="jugador.apellido_jugador"></label>
         <input asp-for="jugador.apellido_jugador" class="form-control">
+        <span asp-validation-for="jugador.apellido_jugador" class="text-danger"></span>
     </div>
     <div class="form-group">
         <label asp-for="jugador.numero_jugador"></label>
         <input asp-for="jugador.numero_jugador" class="form-control">
+        <span asp-validation-for="jugador.numero_jugador" class="text-danger"></span>
     </div>
     <div class="form-group">
         <label asp-for="jugador.EquipoId"></label>
         <input asp-for="jugador.EquipoId" class="form-control">
+        <span asp-validation-for="jugador.EquipoId" class="text-danger"></span>
     </div>
     <div class="form-group">
         <label asp-for="jugador.Posicion_jugadorId"></label>
         <input asp-for="jugador.Posicion_jugadorId" class="form-control">
+        <span asp-validation-for="jugador.Posicion_jugadorId" class="text-danger"></span>
     </div>
     <button type="submit" class="btn btn-primary">Crear Jugador</button>
 </form>
