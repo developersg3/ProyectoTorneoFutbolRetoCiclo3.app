@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XL4POU3Zxz4qvW33WdjLOYJC9lT2IyRrF89bNXHT+vPvM5CU7YvrDfi0gezAQIsKA1BojX927/CC5WjHTsqKtQ==",
+  "dgSpecHash": "fLfLFd2xb294sOMkCSyIXgaprz3YfRCMHDaUrDxEjqYGbmBn+/tkbF2b6OMy5J8YEPqwOI6/uOMXbX66nZbtpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\TorneoFutbolRetoCiclo3.App.Frontend.csproj",
+  "projectFilePath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\TorneoFutbolRetoCiclo3.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SOLID\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\SOLID\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
