@@ -16,18 +16,18 @@ namespace TorneoFutbolRetoCiclo3.App.Dominio {
         public string apellido_jugador { get; set; }
 
         [Required(ErrorMessage = "El numero del jugador es obligatorio")]
-        [StringLength(3, ErrorMessage = "Maximo 3 caracteres")]
+        //[StringLength(3, ErrorMessage = "Maximo 3 caracteres")]
         [Display(Name = "Numero")]
         public int numero_jugador { get; set; }
         
         [Required(ErrorMessage = "El nombre del equipo es obligatorio")]
-        [StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
+        //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
         [Display(Name = "Equipo")]
         public int EquipoId { get; set; }
         public Equipo Equipo { get; set; }
 
         [Required(ErrorMessage = "El la posicion es obligatoria")]
-        [StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
+        //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
         [Display(Name = "Posicion de juego")]
         public int Posicion_jugadorId { get; set; }
         public Posicion_jugador Posicion_jugador { get; set; }
