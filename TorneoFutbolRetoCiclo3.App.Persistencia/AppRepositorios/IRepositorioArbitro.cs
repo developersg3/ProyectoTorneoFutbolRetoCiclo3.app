@@ -9,6 +9,6 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
         Arbitro UpdateArbitro(Arbitro arbitro);
         void DeleteArbitro(int idArbitro);    
         Arbitro GetArbitro(int idArbitro);
-        IEnumerable<Arbitro> SearchArbitros(string nombre);
+        IEnumerable<Arbitro> SearchArbitros(string nombre_arbitro);
    }
 }
