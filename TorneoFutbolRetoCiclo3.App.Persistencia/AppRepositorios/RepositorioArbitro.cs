@@ -1,5 +1,7 @@
 using System.Collections.Generic;
+using System.Linq;
 using TorneoFutbolRetoCiclo3.App.Dominio;
+using Microsoft.EntityFrameworkCore;
 
 namespace TorneoFutbolRetoCiclo3.App.Persistencia
 {
@@ -50,6 +52,12 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
                 _appContext.SaveChanges();
             }
             return arbitroEncontrado;
+        }
+
+        IEnumerable<Arbitro> IRepositorioArbitro.SearchArbitros(string nombre_arbitro)
+        {
+            return _appContext.Arbitros
+                        .Where(p => p.nombre_arbitro.Contains(nombre_arbitro));
         }
 
     }

@@ -5742,11 +5742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\TorneoFutbolRetoCiclo3.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\TorneoFutbolRetoCiclo3.App.Frontend.csproj",
       "projectName": "TorneoFutbolRetoCiclo3.App.Frontend",
-      "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\TorneoFutbolRetoCiclo3.App.Frontend.csproj",
+      "projectPath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\TorneoFutbolRetoCiclo3.App.Frontend.csproj",
       "packagesPath": "C:\\Users\\SOLID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\obj\\",
+      "outputPath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SOLID\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5761,11 +5761,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj"
+            "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj"
             },
-            "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj"
+            "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj"
             }
           }
         }
