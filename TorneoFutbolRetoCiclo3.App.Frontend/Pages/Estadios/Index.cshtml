@@ -2,6 +2,15 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios.IndexModel
 @{
 }
+
+<form method="get">
+    <div class="form-group">
+		<label for="nombre_estadio">Buscar</label>
+        <input name="nombre_estadio" id="nombre_estadio" class="form-control" asp-for="@Model.nombre_estadioActual">
+    </div>
+	<button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
 <h1>Listado de Estadios</h1>
 <a class="btn btn-primary" asp-page="./Create" >Nuevo Estadio</a>
 <table class="table">
@@ -20,11 +29,11 @@
 		<tr>
 			<td>@estadio.nombre_estadio</td>
 			<td>@estadio.direccion_estadio</td>
-			@foreach(var tab_municipio in Model.municipios)
+			@foreach(var matriz_datos in Model.municipios)
 			{
-				if(estadio.MunicipioId == tab_municipio.MunicipioId)
+				if(estadio.MunicipioId == matriz_datos.MunicipioId)
 				{
-					<td>@tab_municipio.nombre_municipio</td>
+					<td>@matriz_datos.nombre_municipio</td>
 				}
 			}
 			<td>@estadio.EstadioId</td>

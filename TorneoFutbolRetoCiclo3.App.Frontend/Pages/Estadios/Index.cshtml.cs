@@ -16,6 +16,7 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios
 
         public IEnumerable<Estadio> estadios {get; set;}
         public IEnumerable <Municipio> municipios {get;set;}
+        public string nombre_estadioActual{get; set;}
 
         public IndexModel(IRepositorioEstadio repoEstadio, IRepositorioMunicipio repoMunicipio)
         {
@@ -23,10 +24,34 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios
             _repoMunicipio = repoMunicipio;
         }
 
-        public void OnGet()
+        //public void OnGet(int? g, string b)
+        public void OnGet(string nombre_estadio)
         {
-            estadios = _repoEstadio.GetAllEstadios();
-            municipios = _repoMunicipio.GetAllMunicipios();
+            if(String.IsNullOrEmpty(nombre_estadio))
+            {
+                nombre_estadioActual = "";
+                estadios = _repoEstadio.GetAllEstadios();
+                municipios = _repoMunicipio.GetAllMunicipios();
+            }
+            else
+            {
+                nombre_estadioActual = nombre_estadio;
+                estadios = _repoEstadio.SearchEstadios(nombre_estadio);
+            }
+/*
+            if(g.HasValue && g.Value != -1)
+            {
+                gActual = g.Value;
+                estadios = _repoEstadio.GetEstadiosGenero(g.Value);
+            }
+            else
+            {
+                gActual = -1;
+                estadios = _repoEstadio.GetAllEstadios();
+            }
+*/
         }
+
+
     }
 }
