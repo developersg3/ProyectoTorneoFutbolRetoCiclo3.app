@@ -29,11 +29,11 @@
 		<tr>
 			<td>@estadio.nombre_estadio</td>
 			<td>@estadio.direccion_estadio</td>
-			@foreach(var matriz_datos in Model.municipios)
+			@foreach(var municip in Model.municipios)
 			{
-				if(estadio.MunicipioId == matriz_datos.MunicipioId)
+				if(estadio.MunicipioId == municip.MunicipioId)
 				{
-					<td>@matriz_datos.nombre_municipio</td>
+					<td>@municip.nombre_municipio</td>
 				}
 			}
 			<td>@estadio.EstadioId</td>
