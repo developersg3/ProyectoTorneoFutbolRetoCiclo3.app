@@ -2,6 +2,25 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tecnicos.IndexModel
 @{
 }
+<!--
+<form method="get">
+    <div class="form-group">
+        <label for="g">Genero</label>
+        <select name="g" id="g" asp-items="Html.GetEnumSelectList<Genero>()" class="form-control" asp-for="@Model.gActual">
+        <option value="-1">Ver todos</option>
+		</select>
+    </div>
+	<button type="submit" class="btn btn-primary">Filtar</button>
+</form>
+-->
+<form method="get">
+    <div class="form-group">
+		<label for="nombre_tecnico">Buscar</label>
+        <input name="nombre_tecnico" id="nombre_tecnico" class="form-control" asp-for="@Model.nombre_tecnicoActual">
+    </div>
+	<button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
 <h1>Listado de Tecnicos</h1>
 <a class="btn btn-primary" asp-page="./Create" >Nuevo Tecnico</a>
 <table class="table">
