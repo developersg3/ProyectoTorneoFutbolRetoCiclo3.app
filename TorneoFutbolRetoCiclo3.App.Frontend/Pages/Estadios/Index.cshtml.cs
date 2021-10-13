@@ -15,7 +15,7 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios
         private readonly IRepositorioMunicipio _repoMunicipio;
 
         public IEnumerable<Estadio> estadios {get; set;}
-        public Municipio municipio {get;set;}
+        public IEnumerable <Municipio> municipios {get;set;}
 
         public IndexModel(IRepositorioEstadio repoEstadio, IRepositorioMunicipio repoMunicipio)
         {
@@ -26,10 +26,7 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios
         public void OnGet()
         {
             estadios = _repoEstadio.GetAllEstadios();
-            foreach (var estadio in estadios)
-            {
-                municipio = _repoMunicipio.GetMunicipio(estadio.MunicipioId);
-            }
+            municipios = _repoMunicipio.GetAllMunicipios();
         }
     }
 }

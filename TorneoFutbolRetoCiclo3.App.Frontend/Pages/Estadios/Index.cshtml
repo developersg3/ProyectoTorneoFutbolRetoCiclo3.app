@@ -20,7 +20,13 @@
 		<tr>
 			<td>@estadio.nombre_estadio</td>
 			<td>@estadio.direccion_estadio</td>
-			<td>@Model.municipio.nombre_municipio</td>
+			@foreach(var tab_municipio in Model.municipios)
+			{
+				if(estadio.MunicipioId == tab_municipio.MunicipioId)
+				{
+					<td>@tab_municipio.nombre_municipio</td>
+				}
+			}
 			<td>@estadio.EstadioId</td>
 			<td>
 				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@estadio.EstadioId">Detalle</a>
