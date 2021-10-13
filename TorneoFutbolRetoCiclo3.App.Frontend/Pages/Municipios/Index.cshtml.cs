@@ -13,15 +13,27 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Municipios
     {
         private readonly IRepositorioMunicipio _repoMunicipio;
         public IEnumerable<Municipio> municipios {get; set;}
+        public int gActual{get; set;}
+        public string nombre_municipioActual{get; set;}
 
         public IndexModel(IRepositorioMunicipio repoMunicipio)
         {
             _repoMunicipio = repoMunicipio;
         }
 
-        public void OnGet()
+        //public void OnGet(int? g, string b)
+        public void OnGet(string nombre_municipio)
         {
-            municipios = _repoMunicipio.GetAllMunicipios();
+            if(String.IsNullOrEmpty(nombre_municipio))
+            {
+                nombre_municipioActual = "";
+                municipios = _repoMunicipio.GetAllMunicipios();
+            }
+            else
+            {
+                nombre_municipioActual = nombre_municipio;
+                municipios = _repoMunicipio.SearchMunicipios(nombre_municipio);
+            }
         }
     }
 }
