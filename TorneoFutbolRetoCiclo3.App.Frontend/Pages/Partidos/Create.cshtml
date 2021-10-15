@@ -6,14 +6,25 @@
 <h1>Nuevo Partido</h1>
 <form method="post">
     <div class="form-group">
-        <label asp-for="partido.cod_equipo_local"></label>
-        <input asp-for="partido.cod_equipo_local" class="form-control">
-        <span asp-validation-for="partido.cod_equipo_local" class="text-danger"></span>
+        <label for="partido.cod_equipo_local">Equipo Local</label>
+        <select id="partido.cod_equipo_local" name="partido.cod_equipo_local" class="form-control">
+            @foreach (var equipo in Model.equipos)
+            {
+                <option value="@equipo.EquipoId">@equipo.nombre_equipo</option>
+            }
+        </select>
     </div>
+
     <div class="form-group">
-        <label asp-for="partido.cod_equipo_vistante"></label>
-        <input asp-for="partido.cod_equipo_vistante" class="form-control">
+        <label for="partido.cod_equipo_vistante">Equipo Visitante</label>
+        <select id="partido.cod_equipo_vistante" name="partido.cod_equipo_vistante" class="form-control">
+            @foreach (var equipo in Model.equipos)
+            {
+                <option value="@equipo.EquipoId">@equipo.nombre_equipo</option>
+            }
+        </select>
     </div>
+
     <div class="form-group">
         <label asp-for="partido.goles_equipo_local"></label>
         <input asp-for="partido.goles_equipo_local" class="form-control">
@@ -30,14 +41,27 @@
         <label asp-for="partido.hora_partido"></label>
         <input asp-for="partido.hora_partido" class="form-control">
     </div>
+
     <div class="form-group">
-        <label asp-for="partido.ArbitroId"></label>
-        <input asp-for="partido.ArbitroId" class="form-control">
+        <label for="partido.ArbitroId">Arbitro</label>
+        <select id="partido.ArbitroId" name="partido.ArbitroId" class="form-control">
+            @foreach (var arbitro in Model.arbitros)
+            {
+                <option value="@arbitro.ArbitroId">@arbitro.nombre_arbitro</option>
+            }
+        </select>
     </div>
+
     <div class="form-group">
-        <label asp-for="partido.EstadioId"></label>
-        <input asp-for="partido.EstadioId" class="form-control">
+        <label for="partido.EstadioId">Arbitro</label>
+        <select id="partido.EstadioId" name="partido.EstadioId" class="form-control">
+            @foreach (var estadio in Model.estadios)
+            {
+                <option value="@estadio.EstadioId">@estadio.nombre_estadio</option>
+            }
+        </select>
     </div>
+
     <button type="submit" class="btn btn-primary">Crear Partido</button>
 </form>
 <a class="btn btn-secondary" asp-page="./Index">Volver</a>

@@ -13,13 +13,29 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Partidos
     {
         private readonly IRepositorioPartido _repoPartido;
         public Partido partido {get; set;}
-        public CreateModel(IRepositorioPartido repoPartido)
+
+        private readonly IRepositorioEquipo _repoEquipo;
+        public IEnumerable<Equipo> equipos {get; set;}
+
+        private readonly IRepositorioArbitro _repoArbitro;
+        public IEnumerable<Arbitro> arbitros {get; set;}
+
+        private readonly IRepositorioEstadio _repoEstadio;
+        public IEnumerable<Estadio> estadios {get; set;}
+
+        public CreateModel(IRepositorioPartido repoPartido, IRepositorioEquipo repoEquipo, IRepositorioArbitro repoArbitro, IRepositorioEstadio repoEstadio)
         {
             _repoPartido = repoPartido;
+            _repoEquipo = repoEquipo;
+            _repoArbitro = repoArbitro;
+            _repoEstadio = repoEstadio;
         }
         public void OnGet()
         {
             partido = new Partido();
+            equipos = _repoEquipo.GetAllEquipos();
+            arbitros = _repoArbitro.GetAllArbitros();
+            estadios = _repoEstadio.GetAllEstadios();
         }
 
         public IActionResult OnPost(Partido partido)
