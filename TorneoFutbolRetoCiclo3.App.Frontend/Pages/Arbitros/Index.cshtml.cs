@@ -13,7 +13,7 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros
     {
         private readonly IRepositorioArbitro _repoArbitro;
         public IEnumerable<Arbitro> arbitros {get; set;}
-        public int gActual{get; set;}
+        //public int gActual{get; set;}
         public string nombre_arbitroActual{get; set;}
 
         public IndexModel(IRepositorioArbitro repoArbitro)
