@@ -2,6 +2,14 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Municipios.IndexModel
 @{
 }
+<form method="get">
+    <div class="form-group">
+		<label for="nombre_municipio">Buscar</label>
+        <input name="nombre_municipio" id="nombre_municipio" class="form-control" asp-for="@Model.nombre_municipioActual">
+    </div>
+	<button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
 <h1>Listado de Municipios</h1>
 <a class="btn btn-primary" asp-page="./Create" >Nuevo Municipio</a>
 <table class="table">

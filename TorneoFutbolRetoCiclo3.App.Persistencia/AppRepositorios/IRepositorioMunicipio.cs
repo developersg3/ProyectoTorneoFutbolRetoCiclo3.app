@@ -9,5 +9,6 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
         Municipio UpdateMunicipio(Municipio municipio);
         void DeleteMunicipio(int idMunicipio);    
         Municipio GetMunicipio(int idMunicipio);
+        IEnumerable<Municipio> SearchMunicipios(string nombre_municipio);
    }
 }

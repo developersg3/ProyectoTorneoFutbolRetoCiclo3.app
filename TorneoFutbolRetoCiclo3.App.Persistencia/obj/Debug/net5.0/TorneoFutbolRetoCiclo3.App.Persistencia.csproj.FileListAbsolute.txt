@@ -17,6 +17,9 @@ C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.P
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.genruntimeconfig.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> municipio
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.csproj.AssemblyReference.cache
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
@@ -25,8 +28,11 @@ C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoF
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.dll
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Persistencia.dll
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
+<<<<<<< HEAD
 =======
 >>>>>>> estadio
+=======
+>>>>>>> municipio
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.deps.json
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.json
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.runtimeconfig.dev.json
@@ -35,6 +41,7 @@ C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoF
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.dll
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.pdb
+<<<<<<< HEAD
 <<<<<<< HEAD
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CopyComplete
 =======
@@ -48,4 +55,7 @@ C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoF
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Persistencia.dll
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.pdb
 >>>>>>> estadio
+=======
+C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.csproj.CopyComplete
+>>>>>>> municipio
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Persistencia.genruntimeconfig.cache
