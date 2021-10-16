@@ -13,15 +13,41 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros
     {
         private readonly IRepositorioArbitro _repoArbitro;
         public IEnumerable<Arbitro> arbitros {get; set;}
+        public int gActual{get; set;}
+        public string nombre_arbitroActual{get; set;}
 
         public IndexModel(IRepositorioArbitro repoArbitro)
         {
             _repoArbitro = repoArbitro;
         }
 
-        public void OnGet()
+
+        //public void OnGet(int? g, string b)
+        public void OnGet(string nombre_arbitro)
         {
-            arbitros = _repoArbitro.GetAllArbitros();
+            if(String.IsNullOrEmpty(nombre_arbitro))
+            {
+                nombre_arbitroActual = "";
+                arbitros = _repoArbitro.GetAllArbitros();
+            }
+            else
+            {
+                nombre_arbitroActual = nombre_arbitro;
+                arbitros = _repoArbitro.SearchArbitros(nombre_arbitro);
+            }
+/*
+            if(g.HasValue && g.Value != -1)
+            {
+                gActual = g.Value;
+                arbitros = _repoArbitro.GetArbitrosGenero(g.Value);
+            }
+            else
+            {
+                gActual = -1;
+                arbitros = _repoArbitro.GetAllArbitros();
+            }
+*/
         }
+
     }
 }

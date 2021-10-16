@@ -13,15 +13,41 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Tecnicos
     {
         private readonly IRepositorioTecnico _repoTecnico;
         public IEnumerable<Tecnico> tecnicos {get; set;}
+        public int gActual{get; set;}
+        public string nombre_tecnicoActual{get; set;}
 
         public IndexModel(IRepositorioTecnico repoTecnico)
         {
             _repoTecnico = repoTecnico;
         }
 
-        public void OnGet()
+
+        //public void OnGet(int? g, string b)
+        public void OnGet(string nombre_tecnico)
         {
-            tecnicos = _repoTecnico.GetAllTecnicos();
+            if(String.IsNullOrEmpty(nombre_tecnico))
+            {
+                nombre_tecnicoActual = "";
+                tecnicos = _repoTecnico.GetAllTecnicos();
+            }
+            else
+            {
+                nombre_tecnicoActual = nombre_tecnico;
+                tecnicos = _repoTecnico.SearchTecnicos(nombre_tecnico);
+            }
+/*
+            if(g.HasValue && g.Value != -1)
+            {
+                gActual = g.Value;
+                tecnicos = _repoTecnico.GetTecnicosGenero(g.Value);
+            }
+            else
+            {
+                gActual = -1;
+                tecnicos = _repoTecnico.GetAllTecnicos();
+            }
+*/
         }
+
     }
 }

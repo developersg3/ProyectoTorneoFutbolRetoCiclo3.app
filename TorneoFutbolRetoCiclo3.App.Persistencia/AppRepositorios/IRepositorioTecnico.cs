@@ -9,5 +9,6 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
         Tecnico UpdateTecnico(Tecnico tecnico);
         void DeleteTecnico(int idTecnico);    
         Tecnico GetTecnico(int idTecnico);
+        IEnumerable<Tecnico> SearchTecnicos(string nombre_tecnico);
    }
 }

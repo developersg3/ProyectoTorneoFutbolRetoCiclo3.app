@@ -2,6 +2,25 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros.IndexModel
 @{
 }
+<!--
+<form method="get">
+    <div class="form-group">
+        <label for="g">Genero</label>
+        <select name="g" id="g" asp-items="Html.GetEnumSelectList<Genero>()" class="form-control" asp-for="@Model.gActual">
+        <option value="-1">Ver todos</option>
+		</select>
+    </div>
+	<button type="submit" class="btn btn-primary">Filtar</button>
+</form>
+-->
+<form method="get">
+    <div class="form-group">
+		<label for="nombre_arbitro">Buscar</label>
+        <input name="nombre_arbitro" id="nombre_arbitro" class="form-control" asp-for="@Model.nombre_arbitroActual">
+    </div>
+	<button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
 <h1>Listado de Arbitros</h1>
 <a class="btn btn-primary" asp-page="./Create" >Nuevo Arbitro</a>
 <table class="table">
