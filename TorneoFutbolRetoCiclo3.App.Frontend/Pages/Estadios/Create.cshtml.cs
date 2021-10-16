@@ -12,14 +12,20 @@ namespace TorneoFutbolRetoCiclo3.App.Frontend.Pages.Estadios
     public class CreateModel : PageModel
     {
         private readonly IRepositorioEstadio _repoEstadio;
+        private readonly IRepositorioMunicipio _repoMunicipio;
         public Estadio estadio {get; set;}
-        public CreateModel(IRepositorioEstadio repoEstadio)
+        public IEnumerable<Municipio> municipios {get; set;}
+        
+        //public CreateModel(IRepositorioEstadio repoEstadio, IRepositorioMunicipio repoMunicipio)
+        public CreateModel(IRepositorioEstadio repoEstadio, IRepositorioMunicipio repoMunicipio)
         {
             _repoEstadio = repoEstadio;
+            _repoMunicipio = repoMunicipio;
         }
         public void OnGet()
         {
             estadio = new Estadio();
+            municipios = _repoMunicipio.GetAllMunicipios();
         }
 
         public IActionResult OnPost(Estadio estadio)

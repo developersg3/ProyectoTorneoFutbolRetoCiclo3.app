@@ -23,6 +23,7 @@ namespace TorneoFutbolRetoCiclo3.App.Dominio {
         [Required(ErrorMessage = "El nombre del equipo es obligatorio")]
         //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
         [Display(Name = "Equipo")]
+        //Relacion Jugador -> Equipo
         public int EquipoId { get; set; }
         public Equipo Equipo { get; set; }
 

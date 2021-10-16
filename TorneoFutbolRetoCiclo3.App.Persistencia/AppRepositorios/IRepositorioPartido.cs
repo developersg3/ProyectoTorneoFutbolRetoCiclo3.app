@@ -9,5 +9,6 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
         Partido UpdatePartido(Partido partido);
         void DeletePartido(int idPartido);    
         Partido GetPartido(int idPartido);
+        IEnumerable<Partido> SearchPartidos(string fecha_partido);
    }
 }

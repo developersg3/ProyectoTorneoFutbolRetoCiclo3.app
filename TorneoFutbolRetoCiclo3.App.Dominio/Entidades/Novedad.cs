@@ -19,12 +19,14 @@ namespace TorneoFutbolRetoCiclo3.App.Dominio {
         [Required(ErrorMessage = "El nombre es obligatorio")]
         //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
         [Display(Name = "Equipo")]
+        //Relacion Novedad -> Equipo
         public int EquipoId { get; set; }
         public Equipo Equipo { get; set; }
 
         [Required(ErrorMessage = "El nombre es obligatorio")]
         //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
         [Display(Name = "Partido")]
+        //Relacion Novedad -> Partido
         public int PartidoId { get; set; }
         public Partido Partido { get; set; }
     }

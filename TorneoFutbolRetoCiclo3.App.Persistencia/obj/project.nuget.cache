@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "gF95YzqwvBljOTvjtAhpx0kvymWxHwUw62X66sV51eH411ga9maozQogC7673htJJ/++mvfFFtWeNpzPtaPkRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj",
+=======
+  "dgSpecHash": "U06KWXn9gK6R6JiC2nB6neMoBc83Urnpx6i142TTrxB3hf32+MDajJ6mdO3rdZBjiITSzjnO5uh0P4U8dKD8xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj",
+>>>>>>> 6dfad476813269cafead5db8b355d4155b2d46ce
   "expectedPackageFiles": [
     "C:\\Users\\MAXTER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MAXTER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TorneoFutbolRetoCiclo3.App.Persistencia
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\
+=======
+build_property.ProjectDir = C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Persistencia\
+>>>>>>> 6dfad476813269cafead5db8b355d4155b2d46ce

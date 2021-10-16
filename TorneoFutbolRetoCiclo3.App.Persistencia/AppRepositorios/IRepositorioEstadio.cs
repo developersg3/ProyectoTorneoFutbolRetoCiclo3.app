@@ -10,5 +10,6 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
         void DeleteEstadio(int idEstadio);    
         Estadio GetEstadio(int idEstadio);
         Municipio Asignar_Municipio_a_Estadio(int idEstadio, int idMunicipio);
+        IEnumerable<Estadio> SearchEstadios(string nombre_estadio);
    }
 }

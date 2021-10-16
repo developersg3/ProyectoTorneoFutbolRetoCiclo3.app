@@ -1,5 +1,7 @@
 using System.Collections.Generic;
+using System.Linq;
 using TorneoFutbolRetoCiclo3.App.Dominio;
+using Microsoft.EntityFrameworkCore;
 
 namespace TorneoFutbolRetoCiclo3.App.Persistencia
 {
@@ -55,6 +57,12 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
                 _appContext.SaveChanges();
             }
             return partidoEncontrado;
+        }
+
+        IEnumerable<Partido> IRepositorioPartido.SearchPartidos(string fecha_partido)
+        {
+            return _appContext.Partidos
+                        .Where(p => p.fecha_partido.Contains(fecha_partido));
         }
 
     }
