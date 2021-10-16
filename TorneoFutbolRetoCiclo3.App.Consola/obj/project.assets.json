@@ -5834,19 +5834,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SOLID\\.nuget\\packages\\": {}
+    "C:\\Users\\MAXTER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Consola\\TorneoFutbolRetoCiclo3.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Consola\\TorneoFutbolRetoCiclo3.App.Consola.csproj",
       "projectName": "TorneoFutbolRetoCiclo3.App.Consola",
-      "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Consola\\TorneoFutbolRetoCiclo3.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\SOLID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Consola\\TorneoFutbolRetoCiclo3.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\MAXTER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SOLID\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MAXTER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5858,8 +5858,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj"
+            "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Persistencia\\TorneoFutbolRetoCiclo3.App.Persistencia.csproj"
             }
           }
         }

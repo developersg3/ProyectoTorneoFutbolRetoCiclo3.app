@@ -9,7 +9,7 @@ using TorneoFutbolRetoCiclo3.App.Persistencia;
 namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211002222808_Entidades")]
+    [Migration("20211016133103_Entidades")]
     partial class Entidades
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -198,8 +198,9 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
                     b.Property<int>("Tipo_novedadId")
                         .HasColumnType("int");
 
-                    b.Property<int>("minuto_novedad")
-                        .HasColumnType("int");
+                    b.Property<string>("minuto_novedad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("NovedadId");
 

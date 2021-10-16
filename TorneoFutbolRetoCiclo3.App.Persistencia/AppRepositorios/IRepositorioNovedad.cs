@@ -9,5 +9,6 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
         Novedad UpdateNovedad(Novedad novedad);
         void DeleteNovedad(int idNovedad);    
         Novedad GetNovedad(int idNovedad);
+        IEnumerable<Novedad> SearchNovedades(string minuto_novedad);
    }
 }

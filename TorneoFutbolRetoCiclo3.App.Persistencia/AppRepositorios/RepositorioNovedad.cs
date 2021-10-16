@@ -1,5 +1,7 @@
 using System.Collections.Generic;
+using System.Linq;
 using TorneoFutbolRetoCiclo3.App.Dominio;
+using Microsoft.EntityFrameworkCore;
 
 namespace TorneoFutbolRetoCiclo3.App.Persistencia
 {
@@ -52,6 +54,12 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
             }
             return novedadEncontrado;
         }
+        IEnumerable<Novedad> IRepositorioNovedad.SearchNovedades(string minuto_novedad)
+        {
+            return _appContext.Novedades
+                        .Where(p => p.minuto_novedad.Contains(minuto_novedad));
+        }
+
 
     }
 }

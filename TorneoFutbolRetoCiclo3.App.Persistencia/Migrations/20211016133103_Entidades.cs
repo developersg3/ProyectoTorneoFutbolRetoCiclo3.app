@@ -207,7 +207,7 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
                 {
                     NovedadId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    minuto_novedad = table.Column<int>(type: "int", nullable: false),
+                    minuto_novedad = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Tipo_novedadId = table.Column<int>(type: "int", nullable: false),
                     EquipoId = table.Column<int>(type: "int", nullable: false),
                     PartidoId = table.Column<int>(type: "int", nullable: false)

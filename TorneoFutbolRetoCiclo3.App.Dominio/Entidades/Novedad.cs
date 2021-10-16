@@ -8,7 +8,7 @@ namespace TorneoFutbolRetoCiclo3.App.Dominio {
         [Required(ErrorMessage = "El minuto de la novedad es obligatorio")]
         //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]
         [Display(Name = "Minuto de la novedad")]
-        public int minuto_novedad { get; set; }
+        public string minuto_novedad { get; set; }
 
         [Required(ErrorMessage = "El nombre es obligatorio")]
         //[StringLength(50, ErrorMessage = "Maximo 50 caracteres")]

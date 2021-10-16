@@ -196,8 +196,9 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia.Migrations
                     b.Property<int>("Tipo_novedadId")
                         .HasColumnType("int");
 
-                    b.Property<int>("minuto_novedad")
-                        .HasColumnType("int");
+                    b.Property<string>("minuto_novedad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("NovedadId");
 

@@ -1,7 +1,17 @@
-﻿@page
+﻿
+@page
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Novedades.IndexModel
 @{
 }
+
+<form method="get">
+    <div class="form-group">
+		<label for="minuto_novedad">Buscar</label>
+        <input name="minuto_novedad" id="minuto_novedad" class="form-control" asp-for="@Model.minuto_novedadActual">
+    </div>
+	<button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
 <h1>Listado de Novedades</h1>
 <a class="btn btn-primary" asp-page="./Create" >Nuevo Novedad</a>
 <table class="table">
@@ -20,9 +30,28 @@
 	{
 		<tr>
 			<td>@novedad.minuto_novedad</td>
-			<td>@novedad.Tipo_novedadId</td>
-			<td>@novedad.EquipoId</td>
-			<td>@novedad.PartidoId</td>
+
+			@foreach(var Tipo_nove in Model.Tipo_novedades)
+			{
+				if(novedad.Tipo_novedadId == Tipo_nove.Tipo_novedadId)
+				{
+					<td>@Tipo_nove.nombre_tipo_novedad</td>
+				}
+			}
+			@foreach(var equip in Model.equipos)
+			{
+				if(novedad.EquipoId == equip.EquipoId)
+				{
+					<td>@equip.nombre_equipo</td>
+				}
+			}
+			@foreach(var partid in Model.partidos)
+			{
+				if(novedad.PartidoId == partid.PartidoId)
+				{
+					<td>@partid.hora_partido</td>
+				}
+			}
 			<td>@novedad.NovedadId</td>
 			<td>
 				<a class="btn btn-secondary" asp-page="./Details" asp-route-id="@novedad.NovedadId">Detalle</a>

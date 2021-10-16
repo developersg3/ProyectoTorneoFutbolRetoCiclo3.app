@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "iXkey8GMgYnfAEsin0m0pdgrOCtewYqGJkeB+QznVMHpFoWt007ESV9/YeyM9gpjSJruMvaBBW4OXzoF1C1umg==",
   "success": true,
   "projectFilePath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
-=======
-  "dgSpecHash": "0CDJp0FQCAEAbJyXhNKgiJIxc+rYwOgco6jMDG3khPtjITmzpu16hz3tHSDqObHvfAwjlXgQRV0orFV1aAhHfA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\SOLID\\Documents\\PROYECTOS_NET_MINTIC\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
->>>>>>> 6dfad476813269cafead5db8b355d4155b2d46ce
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
