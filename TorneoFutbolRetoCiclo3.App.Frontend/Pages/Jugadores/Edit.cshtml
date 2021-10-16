@@ -3,8 +3,16 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Jugadores.EditModel
 @{
 }
-<h1>Editar Jugador</h1>
-<a class="btn btn-secondary" asp-page="./Index">Volver</a>
+<style>
+    h1.intro
+    {
+        color: orangered;
+        text-align: center;
+        font-size: 300%;
+    }
+</style>
+<h1 class = "intro">Editar Jugador</h1>
+
 <form method="post">
     <div class="form-group">
         <label asp-for="jugador.JugadorId"></label>
@@ -31,5 +39,8 @@
         <label asp-for="jugador.Posicion_jugadorId"></label>
         <input asp-for="jugador.Posicion_jugadorId" class="form-control">
     </div>
+    <div>
     <button type="submit" class="btn btn-primary">Editar Jugador</button>
+    <a class="btn btn-secondary" asp-page="./Index">Volver</a>
+    </div>
 </form>

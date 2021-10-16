@@ -3,7 +3,15 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Posicion_jugadores.EditModel
 @{
 }
-<h1>Editar Posicion de jugador</h1>
+<style>
+    h1.intro
+    {
+        color: orangered;
+        text-align: center;
+        font-size: 300%;
+    }
+</style>
+<h1 class = "intro">Editar Posiciones</h1>
 <form method="post">
     <div class="form-group">
         <label asp-for="posicion_jugador.Posicion_jugadorId"></label>
@@ -14,6 +22,8 @@
         <input asp-for="posicion_jugador.nombre_posicion_jugador" class="form-control">
         <span asp-validation-for="posicion_jugador.nombre_posicion_jugador" class="text-danger"></span>
     </div>
+    <div>
     <button type="submit" class="btn btn-primary">Editar Posicion de jugador</button>
+    <a class="btn btn-secondary" asp-page="./Index">Volver</a>
+    </div>
 </form>
-<a class="btn btn-secondary" asp-page="./Index">Volver</a>

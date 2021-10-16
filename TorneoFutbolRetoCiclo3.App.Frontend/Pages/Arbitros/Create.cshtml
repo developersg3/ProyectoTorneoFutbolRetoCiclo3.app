@@ -3,7 +3,15 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Arbitros.CreateModel
 @{
 }
-<h1>Nuevo Arbitro</h1>
+<style>
+    h1.intro
+    {
+        color: orangered;
+        text-align: center;
+        font-size: 300%;
+    }
+</style>
+<h1 class = "intro">Nuevo Arbitro</h1>
 <form method="post">
     <div class="form-group">
         <label asp-for="arbitro.nombre_arbitro"></label>
@@ -22,6 +30,8 @@
         <label asp-for="arbitro.nombre_colegio"></label>
         <input asp-for="arbitro.nombre_colegio" class="form-control">
     </div>
-    <button type="submit" class="btn btn-primary">Crear Arbitro</button>
+    <div>
+        <button type="submit" class="btn btn-primary">Crear Arbitro</button>
+        <a class="btn btn-secondary" asp-page="./Index">Volver</a>
+    </div>
 </form>
-<a class="btn btn-secondary" asp-page="./Index">Volver</a>

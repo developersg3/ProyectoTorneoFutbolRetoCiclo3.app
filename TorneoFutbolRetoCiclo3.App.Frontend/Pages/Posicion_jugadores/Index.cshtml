@@ -2,8 +2,16 @@
 @model TorneoFutbolRetoCiclo3.App.Frontend.Pages.Posicion_jugadores.IndexModel
 @{
 }
-<h1>Listado de Posicion de jugadores</h1>
-<a class="btn btn-primary" asp-page="./Create" >Nueva Posicion de jugador</a>
+<style>
+    h1.intro
+    {
+        color: black;
+        text-align: center;
+        font-size: 300%;
+    }
+</style>
+<h1 class = "intro">Listado de Posiciones</h1>
+
 <table class="table">
 	<thead>
 		<tr>
@@ -26,3 +34,4 @@
 	}
 	</tbody>
 </table>
+<a class="btn btn-primary" asp-page="./Create" >Nueva Posicion</a>
