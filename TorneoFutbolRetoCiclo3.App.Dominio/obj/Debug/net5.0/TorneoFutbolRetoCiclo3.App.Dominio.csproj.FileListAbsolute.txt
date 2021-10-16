@@ -10,3 +10,15 @@ C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.D
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.dll
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Dominio.dll
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.pdb
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.deps.json
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.dll
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\bin\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Dominio.dll
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.pdb
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.AssemblyInfo.cs
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.dll
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Dominio.dll
+C:\Users\MAXTER\Documents\Developers G3\TORNEO FUTBOL 1\ProyectoTorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Dominio\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Dominio.pdb

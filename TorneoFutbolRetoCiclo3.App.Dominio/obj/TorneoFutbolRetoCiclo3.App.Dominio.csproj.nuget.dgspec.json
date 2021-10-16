@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj": {}
+    "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj": {
+    "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
         "projectName": "TorneoFutbolRetoCiclo3.App.Dominio",
-        "projectPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\SOLID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SOLID\\Documents\\TorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\TorneoFutbolRetoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\MAXTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAXTER\\Documents\\Developers G3\\TORNEO FUTBOL 1\\ProyectoTorneoFutbolRetoCiclo3.app\\TorneoFutbolRetoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SOLID\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MAXTER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
