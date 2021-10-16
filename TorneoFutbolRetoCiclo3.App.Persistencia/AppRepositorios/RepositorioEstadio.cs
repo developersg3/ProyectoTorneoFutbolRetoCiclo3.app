@@ -1,17 +1,13 @@
 using System.Collections.Generic;
+using System.Linq;
 using TorneoFutbolRetoCiclo3.App.Dominio;
-
+using Microsoft.EntityFrameworkCore;
 namespace TorneoFutbolRetoCiclo3.App.Persistencia
 {
     public class RepositorioEstadio : IRepositorioEstadio
     {
         private readonly AppContext _appContext = new AppContext();
-/*
-        public RepositorioEstadio(AppContext appContext)
-        {
-            _appContext = appContext;
-        }
-*/
+
         Estadio IRepositorioEstadio.AddEstadio(Estadio estadio)
         {
             var estadioAdicionado = _appContext.Estadios.Add(estadio);
@@ -65,6 +61,11 @@ namespace TorneoFutbolRetoCiclo3.App.Persistencia
                 return municipioEncontrado;
             }
             return null;
+        }
+        IEnumerable<Estadio> IRepositorioEstadio.SearchEstadios(string nombre_estadio)
+        {
+            return _appContext.Estadios
+                        .Where(p => p.nombre_estadio.Contains(nombre_estadio));
         }
 
 

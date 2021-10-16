@@ -114,9 +114,12 @@ C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.F
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\Razor\Pages\Tipo_novedades\Details.cshtml.g.cs
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\Razor\Pages\Tipo_novedades\Edit.cshtml.g.cs
 C:\Users\SOLID\Documents\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\Razor\Pages\Tipo_novedades\Index.cshtml.g.cs
+<<<<<<< HEAD
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.dll
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Frontend.dll
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.pdb
+=======
+>>>>>>> estadio
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\bin\Debug\net5.0\appsettings.json
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\bin\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.exe
@@ -229,4 +232,10 @@ C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoF
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cs
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.Views.pdb
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.dll
+C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\ref\TorneoFutbolRetoCiclo3.App.Frontend.dll
+C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.pdb
+>>>>>>> estadio
 C:\Users\SOLID\Documents\PROYECTOS_NET_MINTIC\TorneoFutbolRetoCiclo3.app\TorneoFutbolRetoCiclo3.App.Frontend\obj\Debug\net5.0\TorneoFutbolRetoCiclo3.App.Frontend.genruntimeconfig.cache

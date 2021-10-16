@@ -18,6 +18,7 @@ namespace TorneoFutbolRetoCiclo3.App.Dominio {
         [Required(ErrorMessage = "El municipio es obligatorio")]
         //[StringLength(4, ErrorMessage = "Maximo 4 caracteres")]
         [Display(Name = "Municipio")]
+        //Relacion Estadio -> Municipio
         public int MunicipioId { get; set; }
         public Municipio Municipio { get; set; }
     }

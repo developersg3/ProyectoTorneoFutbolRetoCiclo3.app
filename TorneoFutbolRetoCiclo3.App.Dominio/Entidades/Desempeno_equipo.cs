@@ -38,6 +38,7 @@ namespace TorneoFutbolRetoCiclo3.App.Dominio {
         [Required(ErrorMessage = "El nombre es obligatorio")]
         //[StringLength(4, ErrorMessage = "Maximo 4 caracteres")]
         [Display(Name = "Nombre del equipo")]
+        //Relacion Desempeno_equipo -> Equipo
         public int EquipoId { get; set; }
         public Equipo Equipo { get; set; }
     }
